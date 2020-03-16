@@ -19,7 +19,7 @@
     max-width: 100px;
     line-height: 0.9;
     padding-left: 40px;
-    background-image: url(../images/onews.svg);
+    background-image: url(../images/news.svg);
     background-repeat: no-repeat;
     background-size: 30px;
     align-self: flex-start;
@@ -84,6 +84,10 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.post.post--single {
+    width: 100%;
+  }
 
 .post {
     width: 50%;
