@@ -1,4 +1,4 @@
-<?php include "inc/header.tpl.php"; ?>
+<?php require "inc/header.tpl.php"; ?>
 
 <h2 class="right__title">Latest News</h2>
 <div class="posts">
@@ -70,4 +70,4 @@
   </article>
 </div>
 
-<?php include "inc/footer.tpl.php"; ?>
+<?php require "inc/footer.tpl.php"; ?>
