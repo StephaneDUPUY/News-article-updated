@@ -11,7 +11,7 @@
       <time datetime="2018-02-10">le 10 février 2018</time>
     </div>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pacers, perferendis, saepe.</p>
-    <a href="article1.php" class="post__link">Continue reading</a>
+    <a href="article.php?id=1" class="post__link">Continue reading</a>
   </article>
   <article class="post">
     <a href="" class="post__category post__category--color-news">news</a>

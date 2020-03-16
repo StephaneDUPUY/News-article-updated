@@ -1,3 +1,13 @@
+<?php
+
+$nav = [
+    "Plan du site" => "sitemap.php",
+    "Mentions légales" => "legal.php",
+    "Contact" => "contact.php"
+];
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,9 +28,9 @@
         </div>
         <nav>
           <ul class="left__nav">
-            <li class="left__nav-item"><a href="" class="left__nav-link">Plan du site</a></li>
-            <li class="left__nav-item"><a href="" class="left__nav-link">Mentions légales</a></li>
-            <li class="left__nav-item"><a href="" class="left__nav-link">Contact</a></li>
+          <?php foreach ($nav as $label => $url): ?>
+            <li class="left__nav-item"><a href="<?=$url?>" class="left__nav-link"><?=$label?></a></li>
+          <?php endforeach; ?>
           </ul>
         </nav>
       </header>
