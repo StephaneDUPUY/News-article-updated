@@ -14,10 +14,10 @@ $articles = [
     ],
     2 => [
         "title" => "Article 2",
-        "author" => "Jean Pruliere",
+        "author" => "John Marchill",
         "text" => "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, laudantium aliquid debitis vero porro saepe quia corporis! Adipisci eius non voluptatibus! Mollitia id voluptates quia recusandae accusamus molestias odit assumenda error vel, quo soluta itaque reiciendis repellat?",
         "category" => "work",
-        "author_img" => "icon-tre.png",
+        "author_img" => "icon-john.png",
         "date" => [
             "human" => "le 9 septembre 2019",
             "computer" => "2019-09-09"

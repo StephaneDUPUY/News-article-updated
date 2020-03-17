@@ -6,7 +6,7 @@
     <a href="" class="post__category post__category--color-team">team</a>
     <h3>Lorem ipsum dolor article 1</h3>
     <div class="post__meta">
-      <img class="post__author-icon" src="../images/icon-dar.png" alt="">
+      <img class="post__author-icon" src="../images/avatars/icon-dar.png" alt="">
       <strong class="post__author">Darren Collison</strong>
       <time datetime="2018-02-10">le 10 février 2018</time>
     </div>
@@ -17,7 +17,7 @@
     <a href="" class="post__category post__category--color-news">news</a>
     <h3>Lorem ipsum dolor article 2</h3>
     <div class="post__meta">
-      <img class="post__author-icon" src="../images/icon-john.png" alt="">
+      <img class="post__author-icon" src="../images/avatars/icon-john.png" alt="">
       <strong class="post__author">John Marchill</strong>
       <time datetime="2018-03-27">le 27 mars 2018</time>
     </div>
@@ -28,8 +28,8 @@
     <a href="" class="post__category post__category--color-news">news</a>
     <h3>Lorem ipsum dolor article 3</h3>
     <div class="post__meta">
-      <img class="post__author-icon" src="../images/icon-ohz.png" alt="">
-      <strong class="post__author">Olivier Hertz</strong>
+      <img class="post__author-icon" src="../images/avatars/icon-ohz.png" alt="">
+      <strong class="post__author">Barack Obamax</strong>
       <time datetime="2018-05-05">le 5 mai 2018</time>
     </div>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Location magnam, distinctio! Vero blanditiis nisi veritatis id perferendis, quod quaerat necessitatibus ullam nobis quidem ipsam optio sit quibusdam ad quae voluptatibus doloremque!</p>
@@ -39,7 +39,7 @@
     <a href="" class="post__category post__category--color-work">work</a>
     <h3>Lorem ipsum dolor article 4</h3>
     <div class="post__meta">
-      <img class="post__author-icon" src="../images/icon-spr.png" alt="">
+      <img class="post__author-icon" src="../images/avatars/icon-spr.png" alt="">
       <strong class="post__author">Jack Sparrow</strong>
       <time datetime="2018-07-31">le 31 juillet 2018</time>
     </div>
@@ -50,7 +50,7 @@
     <a href="" class="post__category post__category--color-team">team</a>
     <h3>Lorem ipsum dolor article 5</h3>
     <div class="post__meta">
-      <img class="post__author-icon" src="../images/icon-tr.png" alt="">
+      <img class="post__author-icon" src="../images/avatars/icon-tr.png" alt="">
       <strong class="post__author">Terry Rozier</strong>
       <time datetime="2018-09-02">le 2 septembre 2018</time>
     </div>
@@ -61,7 +61,7 @@
     <a href="" class="post__category post__category--color-work">work</a>
     <h3>Lorem ipsum dolor article 6</h3>
     <div class="post__meta">
-      <img class="post__author-icon" src="../images/icon-tre.png" alt="">
+      <img class="post__author-icon" src="../images/avatars/icon-tre.png" alt="">
       <strong class="post__author">Trevor Bayne</strong>
       <time datetime="2018-10-25">le 25 octobre 2018</time>
     </div>
