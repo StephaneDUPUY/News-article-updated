@@ -84,8 +84,10 @@
                     <fieldset>
                         <div class="form-row">
                             <label for="info">Je certifie la véracité de ces informations.</label>
-                            <input id="info" type="checkbox" name="info" value="1">
-                            <input id="info" type="checkbox" name="info" value="4">
+                            <label for="yes">Oui
+                            <input id="yes" type="checkbox" name="oui" value="1"></label>
+                            <label for="no">Non
+                            <input id="no" type="checkbox" name="non" value="4"></label>
                         </div>
                     </fieldset>
                     <button id="submit-form" type="submit">Envoyer</button>
