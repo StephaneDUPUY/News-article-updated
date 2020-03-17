@@ -5,9 +5,7 @@ require "inc/functions.php";
 
 $idPassedByURL = $_GET['id'];
 
-require "data/articles.php";
-
-$article = $articles[$idPassedByURL];
+$article = getArticle($idPassedByURL);
 
 require "inc/header.tpl.php";
 require "inc/article.tpl.php";
