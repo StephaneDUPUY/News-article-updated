@@ -1,5 +1,8 @@
 <?php
 
+// function to manage dates
+require "inc/functions.php";
+
 $idPassedByURL = $_GET['id'];
 
 require "data/articles.php";

@@ -7,8 +7,8 @@
         <div class="post__meta">
             <img class="post__author-icon" src="../images/avatars/<?=$article['author_img']?>" alt="">
             <strong class="post__author"><?=$article['author']?></strong>
-            <time datetime="<?=$article['date']['computer']?>">
-            <?=$article['date']['human']?>
+            <time datetime="<?=$article['date']?>">
+            <?=toHumanDate($article['date'])?>
             </time>
         </div>
         <p><?=$article['text']?></p>
