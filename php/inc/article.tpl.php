@@ -8,7 +8,7 @@
             <img class="post__author-icon" src="../images/avatars/<?=$article['author_img']?>" alt="">
             <strong class="post__author"><?=$article['author']?></strong>
             <time datetime="<?=$article['date']?>">
-            <?=toHumanDate($article['date'])?>
+            <?=toHumanDate($article['date'], true)?>
             </time>
         </div>
         <p><?=$article['text']?></p>
