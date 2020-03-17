@@ -22,7 +22,7 @@
       <time datetime="2018-03-27">le 27 mars 2018</time>
     </div>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos id impedit at quo, expedita iure, molestias error ullam distinctio vel.</p>
-    <a href="" class="post__link">Continue reading</a>
+    <a href="article.php?id=2" class="post__link">Continue reading</a>
   </article>
   <article class="post">
     <a href="" class="post__category post__category--color-news">news</a>
@@ -33,7 +33,7 @@
       <time datetime="2018-05-05">le 5 mai 2018</time>
     </div>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Location magnam, distinctio! Vero blanditiis nisi veritatis id perferendis, quod quaerat necessitatibus ullam nobis quidem ipsam optio sit quibusdam ad quae voluptatibus doloremque!</p>
-    <a href="" class="post__link">Continue reading</a>
+    <a href="article.php?id=3" class="post__link">Continue reading</a>
   </article>
   <article class="post">
     <a href="" class="post__category post__category--color-work">work</a>
